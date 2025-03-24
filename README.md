@@ -1,4 +1,4 @@
-# SIT
+# SIT (SIgnal to Image Translation)
 Download the dataset from below url: 
 https://drive.google.com/file/d/10OVBlOn4GtmDUdAHgHEqNHGv9fZS55J1/view?usp=sharing
 
