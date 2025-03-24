@@ -1,8 +1,11 @@
-# SIT (SIgnal to Image Translation)
-Download the dataset from below url: 
+# SIT (Signal to Image Translation)
+
+Sample dataset is in this repo.
+
+For accessing full dataset from below url: 
 https://drive.google.com/file/d/10OVBlOn4GtmDUdAHgHEqNHGv9fZS55J1/view?usp=sharing
 
-Clone the repo of pix2pix and use this data set in it:
+Clone and follow the steps mentioned in the repo of GAN mentioned below and use this dataset:
 https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 
 
