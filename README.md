@@ -15,7 +15,7 @@ Create an environment and install all the required libraries
 python train.py --dataroot ./path_to_folder --name model_name --model pix2pix --direction AtoB --use_wandb
 
 # Testing of model
-python test.py --dataroot ./path_to_folder --direction AtoB --model pix2pix --name learn_rgb --use_wandb
+python test.py --dataroot ./path_to_folder --direction AtoB --model pix2pix --name model_name --use_wandb
 
 
 *Please note that this Page update is under process.*
