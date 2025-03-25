@@ -6,7 +6,7 @@ Used MATLAB to generate a dataset of 5000 image pairs by using variable feedback
 
 Sample dataset consiting of Train, Test and validation set is in this repo.
 
-For accessing full dataset from below url: 
+For accessing full dataset, use below url: 
 https://drive.google.com/file/d/10OVBlOn4GtmDUdAHgHEqNHGv9fZS55J1/view?usp=sharing
 
 Clone and follow the steps mentioned in the repo of GAN mentioned below and use this dataset:
