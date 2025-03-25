@@ -9,8 +9,6 @@ Sample dataset consiting of Train, Test and validation set is in this repo.
 For accessing full dataset, use below url: 
 https://drive.google.com/file/d/10OVBlOn4GtmDUdAHgHEqNHGv9fZS55J1/view?usp=sharing
 
-Now train yolov5 on your custom data set from this github repository
-
 After dataset generation now train your GAN on custom dataset from this github repository:
 https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 
