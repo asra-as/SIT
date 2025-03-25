@@ -1,6 +1,11 @@
 # SIT (Signal to Image Translation)
+# Dataset
+Used MATLAB to generate a dataset of 5000 image pairs by using variable feedback based Self Mixing Interferometry. 
+ 1. Added random Gaussian noise resulting in signal to noise ratio (SNR) varying from 20 dB to 34 dB. 
+ 2. The frequency range of the remote motion was set from 40 Hz to 2200 Hz while sampling frequency, was set to 100 KHz
 
-Sample dataset is in this repo.
+Sample dataset consiting of Train, Test and validation set is in this repo.
+
 
 For accessing full dataset from below url: 
 https://drive.google.com/file/d/10OVBlOn4GtmDUdAHgHEqNHGv9fZS55J1/view?usp=sharing
